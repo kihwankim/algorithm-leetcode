@@ -43,10 +43,6 @@ public class Main { // leetCode problem 1471 The K Strongest value in an Array
     }
 
     public void solve() {
-
-        if (!this.end()) {
-            System.out.println("program error");
-        }
     }
 
     public static void main(String[] args) {
