@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: int
         """
         result, sum = 0, 0
-        stored = {0}            # stored is set(no duplication) -> ime saving
+        stored = {0}            # stored is set(no duplication) -> Time saving
                                 # 0 is exist for when the sum is the target
         for i in nums:
             sum += i
